@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pointjkee
 - 👀 I’m interested in frontend developer,
-- 🌱 I’m currently learning TS, Redux, material UI, unit tests, storybook,
+- 🌱 I’m currently learning TS, React, Redux, material UI, unit tests, storybook,
 - 💞️ I’m looking to collaborate on with companies that are engaged in web development,
 - 📫 How to reach me: razoranet@gmail.com
 
